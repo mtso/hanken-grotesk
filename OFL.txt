@@ -1,8 +1,4 @@
-Copyright (c) 2019, Hanken Design Co. (https://hanken.co/collections/free/products/hk-grotesk),
-with Reserved Font Name "HK Grotesk".
-
-Copyright (c) 2019, Alfredo Marco Pradil (https://hanken.co/collections/free/products/hk-grotesk),
-with Reserved Font Name "Hanken Grotesk".
+Copyright (c) 2019, Hanken Design Co. (https://hanken.co/collections/free/products/hk-grotesk), with Reserved Font Name "Hanken Grotesk".
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 
