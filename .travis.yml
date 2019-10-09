@@ -1,0 +1,15 @@
+# Disable sudo to speed up the build
+sudo: false
+
+language: python
+
+# fontbakery requires python 3.6+
+python: 3.6
+
+cache: pip
+
+install:
+  - pip install fontbakery
+
+script:
+  fontbakery check-googlefonts --no-progress ./fonts/*
